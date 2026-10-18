@@ -1,0 +1,6 @@
+{
+  "name": "Qloo Resonance - Agentic Cultural Affinity Engine",
+  "description": "Cross-domain cultural intelligence and agentic media recommendation engine powered by Qloo taste affinity vectors and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
